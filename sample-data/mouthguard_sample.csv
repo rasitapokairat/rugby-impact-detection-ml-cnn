@@ -1,0 +1,5 @@
+Team,Athlete,Device SN,Persisted Event #,Display Event in IOS App?,Jersey #,Position,"Peak Linear Acceleration (PLA, g)","Peak Angular Acceleration (PAA, rad/sec^2)","Peak Linear Velocity (PLV, m/sec)","Peak Angular Velocity (PAV, rad/sec)",Workload (J),Location,Date,Local Time,Time Zone From UTC,Quality Category,Team Event Type,Team Event Name,FileFormatVersion
+Demo Team,"LastName, FirstName",99999,3,Yes,,,6.6,298,0.8,5.5,1.6,LEFT_LOW,17/5/2023,11:46:19,+01:00,0,,,2.3
+Demo Team,"LastName, FirstName",99999,4,Yes,,,9.1,465,1.1,10.7,3.6,LEFT_LOW,17/5/2023,12:04:09,+01:00,0,,,2.3
+Demo Team,"LastName, FirstName",99999,5,Yes,,,7.6,251,0.9,9.1,2.6,LEFT_HIGH,17/5/2023,12:06:09,+01:00,0,,,2.3
+Demo Team,"LastName, FirstName",99999,6,Yes,,,10.2,504,1.1,14.4,4.6,LEFT_HIGH,17/5/2023,12:15:07,+01:00,0,,,2.3
